@@ -52,3 +52,4 @@ Energy consumption datasets record building-level or aggregated energy use (elec
 - **Climate and typology coverage**: Global datasets like Demand.ninja and BDG2 enable cross-climate generalization studies, while US-centric datasets (EULP, BuildingsBench) offer unmatched depth in building type and end-use disaggregation within a single regulatory framework.
 - **Privacy-preserving data sharing**: Crowdsourced programs (ecobee Donate Your Data) demonstrate a scalable model for acquiring large residential datasets while maintaining occupant anonymity, addressing the long-standing barrier of data access in the residential sector.
 - **Benchmarking standardization**: Purpose-built benchmark datasets (BuildingsBench, ASHRAE GEPIII) provide standardized train/test splits and evaluation protocols, enabling fair comparison of forecasting algorithms — a practice the building energy community increasingly adopts from the ML research paradigm.
+
