@@ -6,11 +6,11 @@ Building datasets can be broadly categorized into three types based on the aspec
 
 | Dataset Category | Description |
 | --- | --- |
-| **[🏗️ Building Footprint Datasets](# 🏗️ Building Footprint Datasets)** | Geospatial datasets that capture the physical shape, location, and extent of building structures, typically derived from satellite imagery, LiDAR, or cadastral records. They enable urban morphology analysis, building stock characterization, and spatial energy modeling at city or national scales. |
+| **[🏗️ Building Footprint Datasets](#building-footprint-datasets)** | Geospatial datasets that capture the physical shape, location, and extent of building structures, typically derived from satellite imagery, LiDAR, or cadastral records. They enable urban morphology analysis, building stock characterization, and spatial energy modeling at city or national scales. |
 | **[⚡ Energy Consumption Datasets](#energy-consumption-datasets)** | Time-series datasets recording building-level or sub-meter energy use (electricity, gas, thermal), often at hourly or sub-hourly resolution. They support load profiling, demand forecasting, anomaly detection, and benchmarking across building types and climates. |
 | **[☀️ Distributed Energy Resource (DER) Datasets](#distributed-energy-resource-datasets)** | Datasets characterizing on-site generation and storage assets — such as rooftop solar PV, battery systems, and EV chargers — including their capacity, output profiles, and grid interaction patterns. They are critical for studying behind-the-meter flexibility, microgrid design, and grid integration of building-sited renewables. |
 
-# 🏗️ Building Footprint Datasets
+# 🏗️ Building Footprint Datasets <a id="building-footprint-datasets"></a>
 
 Building footprint datasets provide geospatial information about the physical outline, location, and geometric attributes of individual building structures. These datasets are typically derived from high-resolution satellite imagery using deep learning-based detection pipelines, and serve as foundational inputs for urban morphology analysis, population estimation, energy demand modeling, and sustainable development monitoring.
 
@@ -30,7 +30,7 @@ Building footprint datasets provide geospatial information about the physical ou
 - **Semantic enrichment**: Newer datasets like OpenBuildingMap add functional classification (residential, commercial, industrial), which is critical for building energy use type disaggregation.
 - **Energy research relevance**: Building footprint data supports urban building energy modeling (UBEM), district heating/cooling network planning, rooftop solar potential assessment, and building stock turnover analysis.
 
-# ⚡ Energy Consumption Datasets
+# ⚡ Energy Consumption Datasets <a id="energy-consumption-datasets"></a>
 
 Energy consumption datasets record building-level or aggregated energy use (electricity, gas, thermal) over time, typically at hourly or sub-hourly resolution. These datasets are essential for load profiling, demand forecasting, energy benchmarking, anomaly detection, demand response research, and validating building energy models across diverse climates and building types.
 
@@ -53,7 +53,7 @@ Energy consumption datasets record building-level or aggregated energy use (elec
 - **Privacy-preserving data sharing**: Crowdsourced programs (ecobee Donate Your Data) demonstrate a scalable model for acquiring large residential datasets while maintaining occupant anonymity, addressing the long-standing barrier of data access in the residential sector.
 - **Benchmarking standardization**: Purpose-built benchmark datasets (BuildingsBench, ASHRAE GEPIII) provide standardized train/test splits and evaluation protocols, enabling fair comparison of forecasting algorithms — a practice the building energy community increasingly adopts from the ML research paradigm.
 
-# ☀️ Distributed Energy Resource (DER) Datasets
+# ☀️ Distributed Energy Resource (DER) Datasets <a id="distributed-energy-resource-der-datasets"></a>
 
 Distributed energy resource datasets characterize on-site and near-site renewable generation, storage, and flexible assets — such as rooftop solar PV, building-integrated photovoltaics (BIPV), battery energy storage systems (BESS), and wind turbines. These datasets capture spatial locations, installed capacities, temporal output profiles, and grid interaction patterns, and are critical for behind-the-meter flexibility analysis, microgrid design, urban energy planning, and grid integration studies.
 
