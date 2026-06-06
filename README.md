@@ -8,7 +8,7 @@ Building datasets can be broadly categorized into three types based on the aspec
 | --- | --- |
 | **[🏗️ Building Footprint Datasets](#building-footprint-datasets)** | Geospatial datasets that capture the physical shape, location, and extent of building structures, typically derived from satellite imagery, LiDAR, or cadastral records. They enable urban morphology analysis, building stock characterization, and spatial energy modeling at city or national scales. |
 | **[⚡ Energy Consumption Datasets](#energy-consumption-datasets)** | Time-series datasets recording building-level or sub-meter energy use (electricity, gas, thermal), often at hourly or sub-hourly resolution. They support load profiling, demand forecasting, anomaly detection, and benchmarking across building types and climates. |
-| **[☀️ Distributed Energy Resource (DER) Datasets](#distributed-energy-resource-datasets)** | Datasets characterizing on-site generation and storage assets — such as rooftop solar PV, battery systems, and EV chargers — including their capacity, output profiles, and grid interaction patterns. They are critical for studying behind-the-meter flexibility, microgrid design, and grid integration of building-sited renewables. |
+| **[☀️ Distributed Energy Resource (DER) Datasets](#distributed-energy-resource-der-datasets)** | Datasets characterizing on-site generation and storage assets — such as rooftop solar PV, battery systems, and EV chargers — including their capacity, output profiles, and grid interaction patterns. They are critical for studying behind-the-meter flexibility, microgrid design, and grid integration of building-sited renewables. |
 
 # 🏗️ Building Footprint Datasets <a id="building-footprint-datasets"></a>
 
